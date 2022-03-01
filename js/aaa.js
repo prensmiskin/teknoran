@@ -1,0 +1,1 @@
+emulateTransitionEnd(350)
